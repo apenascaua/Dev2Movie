@@ -13,7 +13,7 @@
       </Carousel>
       <b-modal
       v-model="showModal"
-      title="Serie Trailer"
+      title="Your Serie Trailer"
       size="lg"
       hide-footer
     >

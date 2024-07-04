@@ -17,7 +17,7 @@ export default {
       title: '1231',
       age: 123,
       movies: [
-        { id: 1, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/23/11/09/18/04/2076862.jpg' },
+        { id: 1, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/23/11/09/18/04/2076862.jpg', trailerUrl: 'https://www.youtube.com/embed/yAZxx8t9zig' },
         { id: 2, banner: 'https://br.web.img2.acsta.net/c_310_420/img/3d/a5/3da55e2824a79a6b3ba13b44c551d3b3.jpg' },
         { id: 3, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/22/12/28/19/29/5948383.jpg' },
         { id: 4, banner: 'https://br.web.img3.acsta.net/c_310_420/img/b0/17/b0173047cc91f385964595cc30cbb975.jpg' },

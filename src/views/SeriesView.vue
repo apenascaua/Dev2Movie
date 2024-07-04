@@ -15,7 +15,7 @@ export default {
   data () {
     return {
       series: [
-        { id: 1, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52' },
+        { id: 1, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52', trailerUrl: 'https://www.youtube.com/embed/32YM20mNxIM' },
         { id: 2, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/19/03/21/16/15/4239577.jpg' },
         { id: 3, banner: 'https://br.web.img3.acsta.net/c_310_420/img/64/9b/649b3372132a7d3168068b62fe27314b.jpg' },
         { id: 4, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/18/11/12/13/38/3629995.jpg' },

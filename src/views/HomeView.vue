@@ -1,6 +1,6 @@
 <template>
   <div class="HomeView">
-    <h1>Welcome to FlixVue</h1>
+    <h1>Welcome to Dev2Movie</h1>
     <MovieSection :movies = "movies"/>
     <SeriesSection :series = "series"/>
   </div>
