@@ -20,9 +20,9 @@ export default {
       title: '1231',
       age: 123,
       movies: [
-        { id: 1, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/23/11/09/18/04/2076862.jpg', trailerUrl: 'https://www.youtube.com/watch?v=DaOOKKSmtco' },
+        { id: 1, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/23/11/09/18/04/2076862.jpg', trailerUrl: 'https://www.youtube.com/embed/yAZxx8t9zig' },
         { id: 2, banner: 'https://br.web.img2.acsta.net/c_310_420/img/3d/a5/3da55e2824a79a6b3ba13b44c551d3b3.jpg' },
-        { id: 3, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/22/12/28/19/29/5948383.jpg' },
+        { id: 3, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/210/016/21001687_20130426011958954.jpg' },
         { id: 4, banner: 'https://br.web.img3.acsta.net/c_310_420/img/b0/17/b0173047cc91f385964595cc30cbb975.jpg' },
         { id: 5, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/24/02/16/19/36/5568619.jpg' },
         { id: 6, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/24/02/28/15/47/0426941.png' },
@@ -31,10 +31,10 @@ export default {
         { id: 9, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/23/04/25/20/10/1515852.jpg' },
         { id: 10, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/23/05/17/22/43/4869322.jpg' },
         { id: 11, banner: 'https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/07/40/19871748.jpg' },
-        { id: 12, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/20/03/05/20/58/4942195.jpg' }
+        { id: 12, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/20/03/05/20/58/4942195.jpg', trailerUrl: 'https://www.youtube.com/embed/o3dbeI0BU1k' }
       ],
       series: [
-        { id: 1, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52', trailerUrl: 'https://www.youtube.com/watch?v=yAZxx8t9zig' },
+        { id: 1, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52', trailerUrl: 'https://www.youtube.com/embed/32YM20mNxIM' },
         { id: 2, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/19/03/21/16/15/4239577.jpg' },
         { id: 3, banner: 'https://br.web.img3.acsta.net/c_310_420/img/64/9b/649b3372132a7d3168068b62fe27314b.jpg' },
         { id: 4, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/18/11/12/13/38/3629995.jpg' },
