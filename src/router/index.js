@@ -8,6 +8,10 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
+    redirect: '/home'
+  },
+  {
+    path: '/',
     name: 'LayoutNavBar',
     component: LayoutNavBar,
     children: [

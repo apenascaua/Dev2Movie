@@ -20,7 +20,7 @@ export default {
       title: '1231',
       age: 123,
       movies: [
-        { id: 1, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/23/11/09/18/04/2076862.jpg' },
+        { id: 1, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/23/11/09/18/04/2076862.jpg', trailerUrl: 'https://www.youtube.com/watch?v=DaOOKKSmtco' },
         { id: 2, banner: 'https://br.web.img2.acsta.net/c_310_420/img/3d/a5/3da55e2824a79a6b3ba13b44c551d3b3.jpg' },
         { id: 3, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/22/12/28/19/29/5948383.jpg' },
         { id: 4, banner: 'https://br.web.img3.acsta.net/c_310_420/img/b0/17/b0173047cc91f385964595cc30cbb975.jpg' },
@@ -34,7 +34,7 @@ export default {
         { id: 12, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/20/03/05/20/58/4942195.jpg' }
       ],
       series: [
-        { id: 1, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52' },
+        { id: 1, banner: 'https://br.web.img3.acsta.net/c_310_420/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52', trailerUrl: 'https://www.youtube.com/watch?v=yAZxx8t9zig' },
         { id: 2, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/19/03/21/16/15/4239577.jpg' },
         { id: 3, banner: 'https://br.web.img3.acsta.net/c_310_420/img/64/9b/649b3372132a7d3168068b62fe27314b.jpg' },
         { id: 4, banner: 'https://br.web.img2.acsta.net/c_310_420/pictures/18/11/12/13/38/3629995.jpg' },
