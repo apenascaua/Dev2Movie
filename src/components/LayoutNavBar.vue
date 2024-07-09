@@ -4,7 +4,7 @@
       <b-navbar-brand href="#">
         <img src="../assets/logomovie.png" class="d-inline-block align-top" alt="Kitten" height="200">
       </b-navbar-brand>
-      <!-- Links do Navbar -->
+      <!-- Links do Navbar 12 -->
       <b-navbar-nav :class="{'show-mobile-menu': showMenu}">
         <router-link to="/Home" class="nav-link">Home</router-link>
         <router-link to="/movies" class="nav-link">Movies</router-link>
