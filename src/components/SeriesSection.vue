@@ -7,7 +7,7 @@
           no-body :img-src="serie.banner"
           img-top
           class="mb-2"
-          @click="showTrailer(serie.trailerUrl)"
+          @dblclick="showTrailer(serie.trailerUrl)"
           ></b-card>
         </Slide>
       </Carousel>
