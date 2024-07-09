@@ -57,4 +57,11 @@ h1{
   color: red
 }
 
+/*alinha o H1 no meio para mobile fetio por AGpatrick 09/07/24*/
+@media (max-width: 450px){
+  h1{
+    text-align: center;
+  }
+}
+
 </style>
